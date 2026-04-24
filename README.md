@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>- 🎓 I’m Ankit Saini, a BCA student and aspiring Full-Stack Developer.<br>- 💼 I have been working on freelance projects for the last 5 months.<br>- 🛠️ I build web apps using React.js, Node.js, MongoDB, Firebase, and GCP.<br>- 🤖 I use modern AI tools like Cursor, Gemini, ChatGPT, and GitHub Copilot for faster development.<br>- 🚐 Built impactful projects like Jahan Setu / Vahan Setu focused on real-world problem solving.<br>- 🌱 Currently improving in backend architecture, cloud deployment, and scalable systems.
+<br>
+I’m Ankit Saini, a BCA student and passionate Full-Stack Developer focused on building modern, user-friendly web applications.<br>
+Over the last 5 months, I’ve worked on freelance projects where I handled frontend, backend, and deployment workflows.<br>
+I enjoy turning ideas into real products using React.js, Node.js, MongoDB, Firebase, and cloud tools.<br>
+Currently, I’m sharpening my skills in backend architecture, scalable APIs, and production-ready development.<br>
 
 
 ## 🌐 Socials:

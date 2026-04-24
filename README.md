@@ -1,9 +1,8 @@
-# 💫 About Me:
-<br>
-I’m Ankit Saini, a BCA student and passionate Full-Stack Developer focused on building modern, user-friendly web applications.<br>
-Over the last 5 months, I’ve worked on freelance projects where I handled frontend, backend, and deployment workflows.<br>
-I enjoy turning ideas into real products using React.js, Node.js, MongoDB, Firebase, and cloud tools.<br>
-Currently, I’m sharpening my skills in backend architecture, scalable APIs, and production-ready development.<br>
+## 🚀 About Me
+👋 I’m **Ankit Saini**, a **BCA student** and passionate **Full-Stack Developer** focused on building modern, user-friendly web applications.<br>
+💼 Over the last **5 months**, I’ve worked on freelance projects where I handled **frontend, backend, and deployment** workflows.<br>
+🛠️ I enjoy turning ideas into real products using **React.js, Node.js, MongoDB, Firebase, and cloud tools**.<br>
+📈 Currently, I’m sharpening my skills in **backend architecture, scalable APIs, and production-ready development**.
 
 
 ## 🌐 Socials:

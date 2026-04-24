@@ -1,3 +1,11 @@
+
+<h1 align="center">Hi 👋, I'm AnkiT SaiNi</h1>
+<h3 align="center">🚀 AI Developer | Full Stack Builder | Automation Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF9C&center=true&vCenter=true&lines=Building+AI+Powered+Apps;Full+Stack+Web+Developer;Automation+Expert;Always+Learning+New+Tech" />
+</p>
+
 ## 🚀 About Me
 👋 I’m **Ankit Saini**, a **BCA student** and passionate **Full-Stack Developer** focused on building modern, user-friendly web applications.<br>
 💼 Over the last **5 months**, I’ve worked on freelance projects where I handled **frontend, backend, and deployment** workflows.<br>
